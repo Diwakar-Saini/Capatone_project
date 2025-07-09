@@ -1,6 +1,6 @@
 # Dynamic Pricing for Urban Parking Lots
 **Summer Analytics 2025 Capstone Project**  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](INSERT_YOUR_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7z16bDHggoQxfWTA0CZQKBJoIjTwAkQ?usp=sharing)
 
 ## 📌 Project Overview
 Implements dynamic pricing models for 14 urban parking lots using real-time data streams. This repository contains Model 1 (Baseline Linear Model) as described in the problem statement.
@@ -22,7 +22,7 @@ Implements dynamic pricing models for 14 urban parking lots using real-time data
 
 ## 🚀 Setup & Execution
 1. **Open in Colab**:  
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](INSERT_YOUR_COLAB_LINK_HERE)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7z16bDHggoQxfWTA0CZQKBJoIjTwAkQ?usp=sharing)
 2. **Upload dataset.csv** when prompted
 3. **Run all cells** sequentially
 
@@ -61,4 +61,4 @@ Implements dynamic pricing models for 14 urban parking lots using real-time data
 
 ---
 **Capstone Project for Summer Analytics 2025**  
-[Consulting & Analytics Club × Pathway](https://www.cacitig.com/sa/course25/)
+[Consulting & Analytics Club × Pathway](https://www.caciitg.com/sa/course25/)
