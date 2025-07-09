@@ -1,5 +1,5 @@
 # Dynamic Pricing for Urban Parking Lots
-**Summer Analytics 2025 Capstone Project**  
+**Summer Analytics 2025 Capstone Project model 1 in below link**  
 [![Open in Colab to see the results for model 1 the file is just demo code here see the corrected version](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b7z16bDHggoQxfWTA0CZQKBJoIjTwAkQ?usp=sharing)
 
 ## 📌 Project Overview
